@@ -1,1 +1,1 @@
-# Inspire.People
+# Inspire.Privacy
